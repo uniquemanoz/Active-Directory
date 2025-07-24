@@ -2,6 +2,10 @@ Let Practise In Vmware If You dont Have Separate Server
 
 Once Fresh Installation is done
 
+
+Setup Admnistrator Password:
+Using Computer Management: System Tools > Local Users and Groups > Users
+
 Find Server Manager Dashboard
 
 <img width="1078" height="854" alt="image" src="https://github.com/user-attachments/assets/74ce62ea-d3e1-43cd-b1b9-2160da29032f" />
@@ -17,6 +21,17 @@ Find Server Manager Dashboard
 6. Once installation is finsihed
 7. setup up promote this server to domain Controller
 
+<img width="522" height="196" alt="image" src="https://github.com/user-attachments/assets/41fac6c5-4759-45a2-8c32-65755a746d56" />
+
+8. Deployment Configuration once clicked at promote this server to domain Controller
+9. Add forest...myoffice.local
+10. select most recent sever at forest functional level:
+11. Tick DNS server
+12. Tick Global Catalog
+13. Password: H3ll0W0rld!
+14. you will see NetBIOS domain name: MYOFFICE
+15. 
+    
 
 
 
