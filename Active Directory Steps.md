@@ -33,11 +33,25 @@ set password in adminstrator account: H3ll0W0rld!
 12. Tick Global Catalog
 13. Password: H3ll0W0rld!
 14. you will see NetBIOS domain name: MYOFFICE
-15. 
-    
+15.  Reboot
+
+**Active Directory Users and Computer**
+
+Organisation Unit (OU)
+> Domain, Computers, USer, Group,Conatainer, PrintQue,Contatc,...
+
+myoffice.local
+>> add OU as Austrlia
+>> Can make Group like IT, Management...there are group security as well
+
+>> Group
+>> Group Type
+>Built In Security Group
+>> Custom Security Groups
+>> Assign Permission (Full Control, read, modify)
 
 
-
-
-
-Active Directory Users and Computers 
+Create User:
+Full Name: Manoj Pokharel
+user logon name: manojpokharel@myoffice.local
+pasword: H3ll0M@n0z
