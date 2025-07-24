@@ -55,3 +55,11 @@ Create User:
 Full Name: Manoj Pokharel
 user logon name: manojpokharel@myoffice.local
 pasword: H3ll0M@n0z
+
+
+** Creating and Setting up Group Policy Object (GPO)**
+GPMC Group Polcy Management
+>> Add new policy as Password Policu
+>> right click and edit
+>> you will see computer congigurations and user configuration
+
