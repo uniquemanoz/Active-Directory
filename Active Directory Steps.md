@@ -14,6 +14,10 @@ Find Server Manager Dashboard
 4. select **active directory domain services** , **Group Policy Management** and then click at **add features**
 5. You can more features like Hyper-V, DNS Server, Remote Acces, Remote  Desktop Services
 5. do next
+6. Once installation is finsihed
+7. setup up promote this server to domain Controller
+
+
 
 
 
