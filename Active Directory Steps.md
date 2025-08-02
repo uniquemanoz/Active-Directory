@@ -1,5 +1,9 @@
 Let Practise In Vmware If You dont Have Separate Server
 
+Lets make windows 7 admin
+username: Administrator
+password:spider
+
 Once Fresh Installation is done
 
 
