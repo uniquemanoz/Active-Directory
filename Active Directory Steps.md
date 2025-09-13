@@ -35,7 +35,7 @@ set password in adminstrator account: H3ll0W0rld!
 10. select most recent sever at forest functional level:
 11. Tick DNS server
 12. Tick Global Catalog
-13. Password: H3ll0W0rld!
+13. Password: Th3l3l3g3nd@12345
 14. you will see NetBIOS domain name: MYOFFICE
 15.  Reboot
 
